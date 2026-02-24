@@ -1,0 +1,4 @@
+view\RecipeView.class
+model\Recipe.class
+com\mycompany\recipee\Recipee.class
+controller\RecipeController.class
